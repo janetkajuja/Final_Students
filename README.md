@@ -3,8 +3,11 @@ This is a Python Program which prompt the user for a file format example (XML, J
 
 Run Server by:
 1.Clicking to the server.py file
+
 Run Client by:
+
 1.Clicking to the client.py file
+
 2.Provide Student ID between(001 and 003)
 
 3.Provide a password which contain( Uppercase, Lowercase, Special characters exclude (+=!) and Numbers)
